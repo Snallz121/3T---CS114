@@ -66,7 +66,7 @@
   1. Mô tả bài toán
 </h3>
 
-**Input**: Một tấm ảnh có một biển số xe Việt Nam
+**Input**: Một tấm ảnh được chụp chính diện và trong tấm ảnh có một biển số xe Việt Nam
 
 **Output**: Các kí tự trên biển số xe theo đúng thứ tự
 
