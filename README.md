@@ -37,7 +37,7 @@
        <td>20520795@gm.uit.edu.vn</td>  
       </tr>
       <tr>
-       <td>Tống Phúc Thịnh/td>
+       <td>Tống Phúc Thịnh</td>
        <td>20520785</td>
        <td> https://github.com/PhuBuii</td>
        <td>20520785@gm.uit.edu.vn</td>  
@@ -57,9 +57,12 @@
 
 - **Tên đồ án:** Phân tích và xác định kí tự biển số xe  
 - **Thư mục lưu trữ:** [Project](Project)
-- **Mô tả đồ án**
 
-- **1. Mô tả bài toán**
+**Mô tả đồ án**
+
+<h3>
+  1. Mô tả bài toán
+</h3>
 
 **Input**: Một tấm ảnh có một biển số xe Việt Nam
 
@@ -67,7 +70,9 @@
 
 **Ngữ cảnh ứng dụng**: Hệ thống bãi giữ xe 
 
-- **2. Mô tả bộ dữ liệu**
+<h3>
+  2. Mô tả bộ dữ liệu
+</h3>
 
 **Cách thức xây dựng bộ dữ liệu**: Trên mạng kết hợp tự chụp ở ngoài
 
