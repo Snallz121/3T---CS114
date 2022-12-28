@@ -77,6 +77,15 @@
 **Cách thức xây dựng bộ dữ liệu**: Trên mạng kết hợp tự chụp ở ngoài
 
 **Số lượng, độ đa dạng**: 
+- 940 Biển số xe oto
+- 1400 Biển số xe máy
+
+**Thao tác tiền xử lí**
+
+**Phân chia dữ liệu**
+- 80% dùng để train
+- 20% dùng để test
+
 
 
 
