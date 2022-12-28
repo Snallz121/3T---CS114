@@ -4,7 +4,7 @@
    </a>
 </p>
 <h1 align="center">
-    CS112.M21.KHCL - Phân tích và thiết kế thuật toán
+    CS114.N11.KHCL - Machine Learning
 </h1>
 
 <h2>
@@ -13,7 +13,7 @@
 
 - **Tên môn học:** Machine Learning
 - **Mã môn học:** CS114
-- **Mã lớp:** CS114.M21.KHCL
+- **Mã lớp:** CS114.N11.KHCL
 - **Năm học:** HK1 (2022-2023)
 - **Giảng viên:** 
 
