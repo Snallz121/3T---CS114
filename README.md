@@ -57,5 +57,21 @@
 
 - **Tên đồ án:** Phân tích và xác định kí tự biển số xe  
 - **Thư mục lưu trữ:** [Project](Project)
+- **Mô tả đồ án**
+
+- **1. Mô tả bài toán**
+
+**Input**: Một tấm ảnh có một biển số xe Việt Nam
+
+**Output**: Các kí tự trên biển số xe theo đúng thứ tự
+
+**Ngữ cảnh ứng dụng**: Hệ thống bãi giữ xe 
+
+- **2. Mô tả bộ dữ liệu**
+
+**Cách thức xây dựng bộ dữ liệu**: Trên mạng kết hợp tự chụp ở ngoài
+
+**Số lượng, độ đa dạng**: 
+
 
 
