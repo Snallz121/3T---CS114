@@ -45,7 +45,7 @@
       <tr>
        <td>Trương Thị Thanh Thanh</td>
        <td>20520767</td>
-       <td>https://github.com/TTTThanh2812</td>
+       <td>https://github.com/TTTThanh2812/</td>
        <td>20520767@gm.uit.edu.vn</td>  
       </tr>
 </table>
