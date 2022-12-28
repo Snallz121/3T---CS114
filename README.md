@@ -39,7 +39,7 @@
       <tr>
        <td>Tống Phúc Thịnh</td>
        <td>20520785</td>
-       <td> https://github.com/PhuBuii</td>
+       <td> https://github.com/Snallz121</td>
        <td>20520785@gm.uit.edu.vn</td>  
       </tr>
       <tr>
