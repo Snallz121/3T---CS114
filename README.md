@@ -58,7 +58,9 @@
 - **Tên đồ án:** Phân tích và xác định kí tự biển số xe  
 - **Thư mục lưu trữ:** [Project](Project)
 
-**Mô tả đồ án**
+<h3>
+  Mô tả đồ án
+</h3>
 
 <h3>
   1. Mô tả bài toán
