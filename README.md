@@ -171,5 +171,5 @@ Các nhãn của bộ dataset
 - 40% dùng để test
 
 
-
+PreProcessing: https://colab.research.google.com/drive/1Uj5rWqN_b2h4cNJ-RUYNr7FTBth8P1Rq?usp=sharing
 
