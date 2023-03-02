@@ -128,7 +128,7 @@ Mỗi thư mục đại diện cho một nhãn của bộ dữ liệu
 
 Mỗi thư mục chứa 200 tấm ảnh
 
-- Các nhãn của bộ dataset
+Các nhãn của bộ dataset
 
 + Táo tươi (Fresh Apple)
 
