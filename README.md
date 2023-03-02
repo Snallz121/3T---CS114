@@ -68,11 +68,11 @@
 
 **Ngữ cảnh ứng dụng**: 
 
-<p align="justify">Trong thời đại công nghệ 4.0, tự động hóa sử dụng machine learning là một việc thường thấy trong thực tế và xuất hiện ở trong mọi lĩnh vực như nông nghiệp, công nghiệp,.... Đặc biệt là trong nông nghiệp thì machine learning đã xuất hiện rất nhiều bài toán khó cần giải quyết để đáp ứng nhu cầu tự động hóa trong nông nghiệp như phân loại giống, phân loại hoa quả,...
+<p align="justify">Trong thời đại công nghệ 4.0, tự động hóa sử dụng machine learning là một việc thường thấy trong thực tế và xuất hiện ở trong mọi lĩnh vực như nông nghiệp, công nghiệp,.... Đặc biệt là trong nông nghiệp thì machine learning đã xuất hiện rất nhiều bài toán khó cần giải quyết để đáp ứng nhu cầu tự động hóa trong nông nghiệp như phân loại giống, phân loại hoa quả,...</p>
 
 Bài toán phân loại trái cây tươi hay hư ra đời vì trái cây nếu không được bảo quản đúng cách thì sẽ rất dễ bị hư, vì thế để đảm bảo chất lượng của trái cây và sức khỏe của người ăn thì bài toán rất cấp thiết.  
 
-Bài toán được ứng dụng rất nhiều như phân loại các trái cây sau khi phân loại ở trạng thái nào để có thể mang ra ngoài tiêu thụ, hay ở trong các siêu thị khi nhập hàng lượng lớn các loại trái cây thì sẽ có khả năng xuất hiện trái cây hư, vì thế bài toán này sẽ giải quyết việc phân loại trái cây tươi hoặc hư để mang đến cho an toàn cho sức khỏe của người dùng khi dùng cái loại thực phẩm nhanh hư như trái cây. </p>
+Bài toán được ứng dụng rất nhiều như phân loại các trái cây sau khi phân loại ở trạng thái nào để có thể mang ra ngoài tiêu thụ, hay ở trong các siêu thị khi nhập hàng lượng lớn các loại trái cây thì sẽ có khả năng xuất hiện trái cây hư, vì thế bài toán này sẽ giải quyết việc phân loại trái cây tươi hoặc hư để mang đến cho an toàn cho sức khỏe của người dùng khi dùng cái loại thực phẩm nhanh hư như trái cây. 
 
    
 **Input**: 
