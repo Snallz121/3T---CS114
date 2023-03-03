@@ -171,6 +171,6 @@ Các nhãn của bộ dataset
 - 40% dùng để test
 
 
-PreProcessing: https://colab.research.google.com/drive/1Uj5rWqN_b2h4cNJ-RUYNr7FTBth8P1Rq?usp=sharing
-Main: https://colab.research.google.com/drive/1KKwLCwLD1lpYnMOCoMqtl-dgTzjX2lfS?usp=sharing
+PreProcessing: https://colab.research.google.com/drive/1Uj5rWqN_b2h4cNJ-RUYNr7FTBth8P1Rq#scrollTo=Ld-QmL7B5bDJ
+Main: https://colab.research.google.com/drive/1KKwLCwLD1lpYnMOCoMqtl-dgTzjX2lfS?authuser=4#scrollTo=NW__fx42-WUa
 
