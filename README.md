@@ -176,12 +176,17 @@ Các nhãn của bộ dataset
 
 **Feature engineering**
 
+Để trích xuất được đặc trưng của input đầu vào, chúng tôi sử dụng 
+
 **Data processing pipeline**
 
 <h3>
    4. Mô tả về thuật toán máy học
 </h3>
 
+<p align='justify'>
+   VGG16 là một mạng CNN (Convolutional Neural Network)
+</p>
 <h3>
    5. Cài đặt và tinh chỉnh tham số
 </h3>
