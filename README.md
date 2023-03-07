@@ -170,4 +170,22 @@ Các nhãn của bộ dataset
 - 10% trong train dùng để làm validation
 - 40% dùng để test
 
+<h3>
+   3. Mô tả đặc trưng
+</h3>
 
+**Feature engineering**
+
+**Data processing pipeline**
+
+<h3>
+   4. Mô tả về thuật toán máy học
+</h3>
+
+<h3>
+   5. Cài đặt và tinh chỉnh tham số
+</h3>
+
+<h3>
+   6. Đánh giá,kết quả và kết luận
+</h3>
