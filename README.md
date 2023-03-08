@@ -163,7 +163,9 @@ Các nhãn của bộ dataset
 + Dâu hư (Rotten Strawberry) 
 
 **Thao tác tiền xử lí**
-
+Để làm đầy dữ liệu đầu vào, nhóm sử dụng 1 số phương pháp sau: Xoay ảnh, điểu chỉnh mức sáng, điều chỉnh độ tương phản và điều chỉnh độ nét của những tấm ảnh có trong 2 thư mục train và test. Mỗi thư mục sẽ được chia làm 16 thư mục nhỏ. Sau khi xử lý dữ liệu, bộ dữ liệu thu được là:
+Ảnh ban đầu:					Một số ảnh được sinh ra:
+ ![image](https://user-images.githubusercontent.com/83121577/223778066-5e412b53-c3cf-44d8-a1e1-589e2933772d.png)
 
 **Phân chia dữ liệu**
 - 60% dùng để train
