@@ -56,7 +56,8 @@
 </h2>
 
 - **Tên đồ án:** Phân loại trái cây tươi và trái cây hư
-- **Thư mục lưu trữ:** [Project](Project)
+- **Dataset:** 
+[original image](https://drive.google.com/drive/folders/1yDz1eRtNDy-G24qxG-Um_GB-WtiKj3sf)
 
 <h3>
   Mô tả đồ án
