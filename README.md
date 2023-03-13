@@ -57,8 +57,9 @@
 
 - **Tên đồ án:** Phân loại trái cây tươi và trái cây hư
 - **Dataset:** 
-[original image](https://drive.google.com/drive/folders/1yDz1eRtNDy-G24qxG-Um_GB-WtiKj3sf)
-
+   + [original image](https://drive.google.com/drive/folders/1yDz1eRtNDy-G24qxG-Um_GB-WtiKj3sf)
+   + [slipt original image](https://drive.google.com/drive/folders/1nZaXythJALqTXzabLSJGZIp4FlQEOXOk)
+   + [split preprocessing image](https://drive.google.com/drive/folders/1KfHN8YqF-LvKWpwu1VH7KAWBpnle-LMV)
 <h3>
   Mô tả đồ án
 </h3>
