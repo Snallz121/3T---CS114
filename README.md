@@ -15,7 +15,7 @@
 - **Mã môn học:** CS114
 - **Mã lớp:** CS114.N11.KHCL
 - **Năm học:** HK1 (2022-2023)
-- **Giảng viên:** 
+- **Giảng viên:** Lê Đình Duy - Phạm Nguyễn Trường An
 
 <h2>
    Giới thiệu nhóm
@@ -196,6 +196,29 @@ Các nhãn của bộ dataset
    5. Cài đặt và tinh chỉnh tham số
 </h3>
 
+Cài đặt mô hình huấn luyện
+
+![image](https://user-images.githubusercontent.com/77454876/224751007-0ca071e7-0a70-407a-b963-b1d3cbdc7f11.png)
+
+
 <h3>
    6. Đánh giá,kết quả và kết luận
 </h3>
+
+Kết quả với bộ dữ liệu gốc chưa qua bước preprocessing
+
+![image](https://user-images.githubusercontent.com/77454876/224751528-a923ee79-8390-472a-9934-e7d68b9668e1.png)
+
+![image](https://user-images.githubusercontent.com/77454876/224751569-8f721fdd-cb9d-4054-adad-30299e11e3a3.png)
+
+![image](https://user-images.githubusercontent.com/77454876/224751679-18c78f7a-4771-4ce9-8a8d-e5bad94315d0.png)
+
+
+Kết quả với bộ dữ liệu đã qua preprocessing
+
+![image](https://user-images.githubusercontent.com/77454876/224751940-092f3b1c-0178-4d4c-8802-3075df4d5948.png)
+
+![image](https://user-images.githubusercontent.com/77454876/224751886-25f4b9cf-27bb-4e6a-a910-debabed03ca5.png)
+
+
+
