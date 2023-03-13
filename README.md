@@ -198,7 +198,9 @@ Các nhãn của bộ dataset
 
 Cài đặt mô hình huấn luyện
 
-![image](https://user-images.githubusercontent.com/77454876/224751007-0ca071e7-0a70-407a-b963-b1d3cbdc7f11.png)
+<img src = 'https://user-images.githubusercontent.com/77454876/224751007-0ca071e7-0a70-407a-b963-b1d3cbdc7f11.png' style="width:40%;height:40%;">
+</img>
+
 
 
 <h3>
@@ -207,17 +209,21 @@ Cài đặt mô hình huấn luyện
 
 Kết quả với bộ dữ liệu gốc chưa qua bước preprocessing
 
-![image](https://user-images.githubusercontent.com/77454876/224751528-a923ee79-8390-472a-9934-e7d68b9668e1.png)
-![image](https://user-images.githubusercontent.com/77454876/224751569-8f721fdd-cb9d-4054-adad-30299e11e3a3.png)
+<img src = 'https://user-images.githubusercontent.com/77454876/224751528-a923ee79-8390-472a-9934-e7d68b9668e1.png' style="width:40%;height:40%;">
+</img>
+<img src = 'https://user-images.githubusercontent.com/77454876/224751569-8f721fdd-cb9d-4054-adad-30299e11e3a3.png)' style="width:40%;height:40%;">
+</img>
 
-<image align='center' src = 'https://user-images.githubusercontent.com/77454876/224751679-18c78f7a-4771-4ce9-8a8d-e5bad94315d0.png' size = '50%'>
-</image>
+<img src = 'https://user-images.githubusercontent.com/77454876/224751679-18c78f7a-4771-4ce9-8a8d-e5bad94315d0.png' style="width:40%;height:40%;">
+</img>
 
 Kết quả với bộ dữ liệu đã qua preprocessing
 
-![image](https://user-images.githubusercontent.com/77454876/224751940-092f3b1c-0178-4d4c-8802-3075df4d5948.png)
+<img src = 'https://user-images.githubusercontent.com/77454876/224751940-092f3b1c-0178-4d4c-8802-3075df4d5948.png' style="width:40%;height:40%;">
+</img>
 
-![image](https://user-images.githubusercontent.com/77454876/224751886-25f4b9cf-27bb-4e6a-a910-debabed03ca5.png)
+<img src = 'https://user-images.githubusercontent.com/77454876/224751886-25f4b9cf-27bb-4e6a-a910-debabed03ca5.png' style="width:40%;height:40%;">
+</img>
 
 
 
