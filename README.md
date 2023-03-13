@@ -208,11 +208,10 @@ Cài đặt mô hình huấn luyện
 Kết quả với bộ dữ liệu gốc chưa qua bước preprocessing
 
 ![image](https://user-images.githubusercontent.com/77454876/224751528-a923ee79-8390-472a-9934-e7d68b9668e1.png)
-
 ![image](https://user-images.githubusercontent.com/77454876/224751569-8f721fdd-cb9d-4054-adad-30299e11e3a3.png)
 
-![image](https://user-images.githubusercontent.com/77454876/224751679-18c78f7a-4771-4ce9-8a8d-e5bad94315d0.png)
-
+<image align='center' src = 'https://user-images.githubusercontent.com/77454876/224751679-18c78f7a-4771-4ce9-8a8d-e5bad94315d0.png' size = '50%'>
+</image>
 
 Kết quả với bộ dữ liệu đã qua preprocessing
 
